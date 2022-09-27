@@ -1,0 +1,38 @@
+.purple {
+	background: #9c27b0;
+}
+
+.admin .card{
+	border: purple solid;
+}
+
+.admin .card:hover{
+   
+   background: #e2e2e2;	
+   cursor: pointer;
+	
+}
+.list-group-item.active{
+	
+	background: #9c27b0;
+	border-color:#9c27b0;
+	
+}
+
+.discounted-price{
+	font-size: 10px!important;
+	font-style: italic!important;
+	text-decoration: line-through!important;
+}
+
+.discount-label{
+	font-size: 10px!important;
+	font-style: italic!important;
+}
+
+.product-card:hover{
+   
+   background: #e2e2e2;	
+   cursor: pointer;
+	
+}
